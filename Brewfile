@@ -47,3 +47,4 @@ brew "zsh"
 brew "mongodb/brew/mongodb-community"
 #mas
 mas "bear", id: 1091189122
+mas "bettersnaptool", id: 417375580
