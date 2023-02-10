@@ -31,6 +31,7 @@ cask "postman"
 cask "firefox-developer-edition"
 cask "adobe-acrobat-reader"
 cask "kap"
+cask "telegram"
 #brews
 brew "mas"
 brew "cask"
