@@ -14,6 +14,42 @@ You will need:
 
 Run `brew bundle` in the same folder as your *Brewfile* is in.
 
+#### Apps
+
+1. Development
+
+    * VSCode
+    * Firefox / Brave
+    * Postman
+    * Font Victor Mono
+    * Warp
+    * PGAdmin
+    * Docker
+
+2. Utils
+    * BetterTouchTools
+    * BetterSnapTools
+    * Bear
+    * Coconut Battery
+    * Aldente
+    * Anydesk
+    * KAP
+    * 1Password
+    * DaisyDisk
+    * Rocket
+
+3. Social
+
+    * Slack
+    * WhatsApp
+    * Telegram
+
+4. Media
+
+    * Spotify
+    * VLC
+    * Steam
+
 #### Errors
 
 In case you error out on `zsh: could not find brew command` you will need to
