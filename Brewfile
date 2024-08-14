@@ -30,6 +30,7 @@ cask "telegram"
 cask "docker"
 cask "warp"
 cask "pgadmin4"
+cask "gitup"
 #brews
 brew "mas"
 brew "cask"

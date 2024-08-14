@@ -25,13 +25,14 @@ Run `brew bundle` in the same folder as your *Brewfile* is in.
     * Warp
     * PGAdmin
     * Docker
+    * GitUp
 
 2. Utils
     * BetterTouchTools
     * BetterSnapTools
     * Bear
     * Coconut Battery
-    * Aldente
+    * AlDente
     * Anydesk
     * KAP
     * 1Password
