@@ -56,7 +56,6 @@ Run `brew bundle` in the same folder as your *Brewfile* is in.
     * [Anydesk](https://anydesk.com/)
     * [1Password](https://1password.com/)
     * [Adobe Acrobat Reader](https://get.adobe.com/reader/)
-    * [Transmission](https://transmissionbt.com/)
     * [Bear](https://bear.app/)
 
 #### Errors

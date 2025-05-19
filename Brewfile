@@ -22,7 +22,6 @@ cask "daisydisk"
 cask "coconutbattery"
 cask "bettertouchtool"
 cask "aldente"
-
 ## Social
 cask "slack"
 cask "whatsapp"
@@ -37,7 +36,6 @@ cask "rocket"
 cask "anydesk"
 cask "1password"
 cask "adobe-acrobat-reader"
-cask "transmission"
 #brews
 brew "mas"
 brew "cask"
