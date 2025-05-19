@@ -17,39 +17,47 @@ Run `brew bundle` in the same folder as your *Brewfile* is in.
 #### Apps
 
 1. Development
+    * [VSCode](https://code.visualstudio.com/)
+    * [Windsurf](https://windsurf.com/)
+    * [Docker](https://www.docker.com/)
+    * [GitUp](https://gitup.co/)
+    * [PGAdmin](https://www.pgadmin.org/)
+    * [Warp](https://www.warp.dev/)
+    * [Postman](https://www.postman.com/)
+    * [Stripe CLI](https://stripe.com/docs/stripe-cli)
 
-    * VSCode
-    * Firefox / Brave
-    * Postman
-    * Font Victor Mono
-    * Warp
-    * PGAdmin
-    * Docker
-    * GitUp
+2. Browsers
+    * [Brave](https://brave.com/)
+    * [Firefox](https://www.mozilla.org/en-US/firefox/developer/)
+    * [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 
-2. Utils
-    * BetterTouchTools
-    * BetterSnapTools
-    * Bear
-    * Coconut Battery
-    * AlDente
-    * Anydesk
-    * KAP
-    * 1Password
-    * DaisyDisk
-    * Rocket
+3. Utils
+    * [KAP](https://getkap.co/)
+    * [DaisyDisk](https://daisydiskapp.com/)
+    * [Coconut Battery](https://coconut-flavour.com/battery)
+    * [BetterTouchTools](https://folivora.ai/)
+    * [BetterSnapTools](https://folivora.ai/bettersnaptool)
+    * [AlDente](https://apphousekitchen.com/aldente/)
 
-3. Social
+4. Social
+    * [Slack](https://slack.com/)
+    * [WhatsApp](https://www.whatsapp.com/)
+    * [Telegram](https://telegram.org/)
 
-    * Slack
-    * WhatsApp
-    * Telegram
+5. Media
+    * [VLC](https://www.videolan.org/vlc/)
+    * [Steam](https://store.steampowered.com/)
 
-4. Media
+6. Fonts
+    * [Victor Mono](https://fonts.google.com/specimen/Victor+Mono)
 
-    * Spotify
-    * VLC
-    * Steam
+7. Misc
+    * [Rocket](https://matthewpalmer.net/rocket/)
+    * [Anydesk](https://anydesk.com/)
+    * [1Password](https://1password.com/)
+    * [Adobe Acrobat Reader](https://get.adobe.com/reader/)
+    * [Transmission](https://transmissionbt.com/)
+    * [Bear](https://bear.app/)
 
 #### Errors
 
